@@ -2,6 +2,10 @@
 
 ## Pantalla
 ![image](https://github.com/user-attachments/assets/18290e78-86bc-4933-8e06-66d16c81961b)
+![image](https://github.com/user-attachments/assets/05e5c15f-b2db-4624-9320-429331ceb495)
+![image](https://github.com/user-attachments/assets/66cc00e8-008b-4202-8a69-9e1518ff4c19)
+
+
 
 A new Flutter project created with FlutLab - https://flutlab.io
 ## Getting Started
