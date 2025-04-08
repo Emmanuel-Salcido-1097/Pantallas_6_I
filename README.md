@@ -1,7 +1,6 @@
 # Act5_Rutas_6_I
 
 A new Flutter project created with FlutLab - https://flutlab.io
-
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
