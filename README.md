@@ -1,5 +1,8 @@
 # Act5_Rutas_6_I
 
+## Pantalla
+![image](https://github.com/user-attachments/assets/18290e78-86bc-4933-8e06-66d16c81961b)
+
 A new Flutter project created with FlutLab - https://flutlab.io
 ## Getting Started
 
