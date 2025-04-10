@@ -17,13 +17,32 @@ class PantallaDos extends StatelessWidget {
           ),
         ), // Establece el color de fondo a azul
       ),
-      body: Center(
-        child: ElevatedButton(
-          onPressed: () {
-            Navigator.pop(context);
-          },
-          child: const Text('Regresar'),
-        ),
+      body: Column(
+        children: [
+          SizedBox(
+            height: 10,
+          ),
+          Container(
+            color: Color(0xffffec40),
+            alignment: Alignment.center,
+            width: double.infinity,
+            height: 300,
+            child: AspectRatio(
+              aspectRatio: 16 / 9,
+              child: Container(
+                color: Colors.blueGrey,
+              ),
+            ),
+          ),
+          Center(
+            child: ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context);
+              },
+              child: const Text('Regresar'),
+            ),
+          ),
+        ],
       ),
     );
   }
